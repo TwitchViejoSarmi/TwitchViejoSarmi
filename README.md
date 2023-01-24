@@ -18,6 +18,7 @@
 <a href="https://instagram.com/viejosarmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viejosarmi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/viejosarmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="viejosarmi" height="30" width="40" /></a>
 <a href="https://discord.gg/8874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8874" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/viejosarmi" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png" alt="viejosarmi" height="25" width="25" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
