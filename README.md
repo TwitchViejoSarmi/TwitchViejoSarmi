@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twitchviejosarmi&label=Profile%20views&color=0e75b6&style=flat" alt="twitchviejosarmi" /> </p>
 
-- 🌱 I’m currently learning **Object Oriented Programming on language C++**
+- 🌱 I’m currently learning **Web developing on Javascript**
 
 - 📫 How to reach me **alesansarive@gmail.com (Personal) alesansarive@javerianacali.edu.co (Institutional)**
 
